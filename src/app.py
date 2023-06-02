@@ -20,8 +20,6 @@ def cabecalho():
         yt.video()
         yt.musica()
         
-def ambos():
-    pass
 
 if __name__ == '__main__':
     while True:

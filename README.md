@@ -18,5 +18,5 @@ Com o terminal aberto digite:
 Dentro da pasta clonada, digite:
 <pre>pip install -r requirements.txt</pre>
 Execute o arquivo principal
-<pre>python3 app.py</pre>
+<pre>python3 src/app.py</pre>
 
